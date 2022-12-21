@@ -184,11 +184,7 @@ footer{
     border-radius: 0.5rem;
     border: 1px solid var(--primary-color);
 }
-/* Default styles */
-body {
-    display: flex;
-    flex-direction: column;
-  }
+
   
   /* Styles for screens smaller than 500px wide */
   @media (max-width: 500px) {
