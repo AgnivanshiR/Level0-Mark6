@@ -30,6 +30,8 @@ btnTranslate.addEventListener("click", clickHandler)
 
 
 
+
+
 // for tags like textarea query will be- document.querySelector("textarea")
 // for class- document.querySelector(".btn-primary")
 // for id- document.querySelector("#input-btn")

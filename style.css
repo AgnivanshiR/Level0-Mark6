@@ -187,9 +187,22 @@ footer{
 
   
   /* Styles for screens smaller than 500px wide */
-  @media (max-width: 500px) {
+  /* @media (max-width: 500px) {
     body {
       flex-direction: row;
+    }
+  } */
+
+  @media (max-width: 768px) {
+    header {
+      font-size: 14px;
+    }
+  }
+  
+  /* Styles for screens less than or equal to 480px wide */
+  @media (max-width: 480px) {
+    header {
+      font-size: 12px;
     }
   }
   
