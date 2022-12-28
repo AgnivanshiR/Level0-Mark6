@@ -87,10 +87,10 @@ footer{
 
 /* Header */
 .hero{
-    padding: 1rem;
+    padding: 0.2rem;
 }
 .hero .hero-img{
-    max-width: 350px;
+    max-width: 200px;
     display: block;
     margin: auto;
     border-radius: 50%;
